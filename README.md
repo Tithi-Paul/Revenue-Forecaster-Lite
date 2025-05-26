@@ -1,4 +1,4 @@
-# # 📊 Revenue Forecaster Lite
+# 📊 Revenue Forecaster Lite
 
 A simple, local-only React web app to help startup founders forecast their software business growth, revenue, and profitability month-by-month.
 
