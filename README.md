@@ -17,8 +17,8 @@ A simple, local-only React web app to help startup founders forecast their softw
 
 ## ▶️ How to Run
 
-1. **Clone or Download** the repository
-2. Open terminal and run:
+1. **Clone or download** the repository
+2. In the terminal, navigate to the project folder and run:
 
 ```bash
 npm install
